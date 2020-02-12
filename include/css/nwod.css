@@ -1,0 +1,132 @@
+#wrap{width:900px;margin:auto;background:#FFF;padding:0;}
+
+.logo 
+{
+    width:20px;
+}
+#dialoguser
+{
+    color: #ff0000;
+}
+#ig_frame
+{
+    
+}
+h3
+{
+    margin: 0.5em 0 0 0;
+    padding: 0.5em 0 0 0;
+}
+#at_frame
+{
+    display:none
+}
+#life_frame
+{
+    /*display:none*/
+}
+#skill_frame
+{
+    display:none
+}
+.wtfvalue
+{
+      /*font-weight: bold;*/
+        color: #dd8800;
+      
+}
+.large
+{
+    width:40%
+}
+.listCharact
+{
+    width:800px
+}
+.menu_second
+{
+	margin : 0 0;
+	padding :0 0;
+	list-style: none;
+}
+ .menu_second li
+{
+	margin : 0 0;
+        padding :0 0;
+list-style: none;
+}
+/* new classes for character sheet system*/
+.shortfield
+{
+    width: 20px;
+}
+.mediumfield,.onleft table tbody tr td input
+{
+    width: 40px;
+}
+.tiny .nonshortfield
+{
+    width: 40px;
+
+}
+.content_right
+{
+    float: left;
+    height: 100%;
+    padding: 20px 0 20px 20px;
+    width: 200px;
+}
+.content_left
+{
+    float: left;
+    height: auto;
+    overflow: hidden;
+    padding: 3px 0 20px 20px;
+    width: 300px;
+    background-color: #FFF;
+}
+.content_left2
+{
+    float: left;
+    height: auto;
+    overflow: hidden;
+    padding: 3px 0 20px 20px;
+    width: 640px;
+    background-color: #FFF;
+}
+#middle ul
+{
+	list-style-type: none;
+	margin: 2em 0;
+}
+#middle ul li input
+{
+	margin: 0 0 0 20px;
+}
+.smalltext
+{
+    font-size:0.6em;
+    
+}
+.menu_second 
+{
+	text-transform:   capitalize;
+	
+}
+.currentTab a
+{
+	text-decoration:   none;
+	
+}
+#middle tr td 
+{
+    padding: 0 !important;
+    border: 0px solid #E7E7E7 !important;
+    margin: 0 0 !important;
+}
+#middle tr 
+{
+  border: 0px solid #E7E7E7 !important;
+   background-color: transparent;
+
+}

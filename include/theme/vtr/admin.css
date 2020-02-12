@@ -1,0 +1,59 @@
+.form-table th {
+font-weight:bold;
+}
+
+.form-table small {
+font-size:11px;
+}
+
+h3 {
+margin:0;
+padding-bottom:10px;
+margin-top:20px;
+font-family:Georgia,'Times New Roman',Times,serif;
+clear:both;
+display:block;
+float:none;
+color:#990022;
+border-bottom:1px solid #CCC;
+}
+
+input[type="text"] , select {
+border:1px solid #AAA !important;
+border-radius:5px;
+-moz-border-radius:5px;
+}
+
+div.slider {
+width:450px; 
+margin:10px 0; 
+height:20px; 
+position: relative;
+background:url(images/admin/slider_back.png) no-repeat center left; 
+}
+
+div.slider div.handle { 
+height:18px;
+width:18px; 
+cursor:move; 
+position: absolute;
+background:url(images/admin/slider_knob.png) no-repeat center left;
+ margin-top:2px;
+}
+
+p.numbers {
+display:block;
+float:left;
+text-align:center;
+margin:0 auto;
+margin-top:-10px;
+}
+
+#side_value {float:right;}
+
+.hideSlider { 
+display:block;
+height:0px;
+padding:0px;
+overflow:hidden;
+}
