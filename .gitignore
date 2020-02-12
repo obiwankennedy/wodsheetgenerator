@@ -1,3 +1,7 @@
 settings.php
 *.pdf
 *~
+.svn/*
+.svn
+include/pdf/fpdf16/doc/*
+include/pdf/fpdf16/doc
